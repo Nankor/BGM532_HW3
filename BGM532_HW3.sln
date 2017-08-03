@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hooker", "hooker\hooker.vcxproj", "{8A47FDD2-3B02-4272-A1C0-2E1022A88FBF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "loader", "loader\loader.vcxproj", "{CA8A517E-CE05-4586-BFED-C9992EFD346B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Packer", "Packer\Packer.vcxproj", "{55245BEF-31B4-42F4-A6D2-33A665FD622C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://pamuk.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = hooker\\hooker.vcxproj
+		SccProjectName0 = hooker
+		SccLocalPath0 = hooker
+		SccProjectUniqueName1 = loader\\loader.vcxproj
+		SccProjectName1 = loader
+		SccLocalPath1 = loader
+		SccProjectUniqueName2 = Packer\\Packer.vcxproj
+		SccProjectName2 = Packer
+		SccLocalPath2 = Packer
+		SccLocalPath3 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A47FDD2-3B02-4272-A1C0-2E1022A88FBF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8A47FDD2-3B02-4272-A1C0-2E1022A88FBF}.Debug|Win32.Build.0 = Debug|Win32
+		{8A47FDD2-3B02-4272-A1C0-2E1022A88FBF}.Release|Win32.ActiveCfg = Release|Win32
+		{8A47FDD2-3B02-4272-A1C0-2E1022A88FBF}.Release|Win32.Build.0 = Release|Win32
+		{CA8A517E-CE05-4586-BFED-C9992EFD346B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA8A517E-CE05-4586-BFED-C9992EFD346B}.Debug|Win32.Build.0 = Debug|Win32
+		{CA8A517E-CE05-4586-BFED-C9992EFD346B}.Release|Win32.ActiveCfg = Release|Win32
+		{CA8A517E-CE05-4586-BFED-C9992EFD346B}.Release|Win32.Build.0 = Release|Win32
+		{55245BEF-31B4-42F4-A6D2-33A665FD622C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{55245BEF-31B4-42F4-A6D2-33A665FD622C}.Debug|Win32.Build.0 = Debug|Win32
+		{55245BEF-31B4-42F4-A6D2-33A665FD622C}.Release|Win32.ActiveCfg = Release|Win32
+		{55245BEF-31B4-42F4-A6D2-33A665FD622C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
